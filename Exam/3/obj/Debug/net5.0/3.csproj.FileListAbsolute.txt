@@ -1,0 +1,13 @@
+D:\University\ПУ\3 курс\Избираеми дисциплини\Exam\3\bin\Debug\net5.0\3.exe
+D:\University\ПУ\3 курс\Избираеми дисциплини\Exam\3\bin\Debug\net5.0\3.deps.json
+D:\University\ПУ\3 курс\Избираеми дисциплини\Exam\3\bin\Debug\net5.0\3.runtimeconfig.json
+D:\University\ПУ\3 курс\Избираеми дисциплини\Exam\3\bin\Debug\net5.0\3.runtimeconfig.dev.json
+D:\University\ПУ\3 курс\Избираеми дисциплини\Exam\3\bin\Debug\net5.0\3.dll
+D:\University\ПУ\3 курс\Избираеми дисциплини\Exam\3\bin\Debug\net5.0\3.pdb
+D:\University\ПУ\3 курс\Избираеми дисциплини\Exam\3\obj\Debug\net5.0\3.csprojAssemblyReference.cache
+D:\University\ПУ\3 курс\Избираеми дисциплини\Exam\3\obj\Debug\net5.0\3.AssemblyInfoInputs.cache
+D:\University\ПУ\3 курс\Избираеми дисциплини\Exam\3\obj\Debug\net5.0\3.AssemblyInfo.cs
+D:\University\ПУ\3 курс\Избираеми дисциплини\Exam\3\obj\Debug\net5.0\3.csproj.CoreCompileInputs.cache
+D:\University\ПУ\3 курс\Избираеми дисциплини\Exam\3\obj\Debug\net5.0\3.dll
+D:\University\ПУ\3 курс\Избираеми дисциплини\Exam\3\obj\Debug\net5.0\3.pdb
+D:\University\ПУ\3 курс\Избираеми дисциплини\Exam\3\obj\Debug\net5.0\3.genruntimeconfig.cache
